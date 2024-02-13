@@ -1,16 +1,29 @@
-### Hola, soy Cesar Andres Pereira 👋
+# ¡Hola! 👋 Soy Cesar Andrés Pereira Bernal
 
-<!--
-**cesardev31/cesardev31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador Fullstack con experiencia en una variedad de tecnologías, incluyendo Node.js, Express, NestJS, MongoDB, MariaDB, Angular, React y Flutter. También tengo conocimientos en Docker, Kubernetes, Nginx, AWS y GitHub Actions.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Actualmente trabajo como desarrollador Fullstack.
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades.
+- 💬 Puedes contactarme para colaboraciones o simplemente para charlar sobre tecnología.
+
+## Mis habilidades
+
+- **Lenguajes de programación:** JavaScript/TypeScript, Dart.
+- **Frameworks y librerías:** Node.js, Express, NestJS, Angular, React, Flutter.
+- **Bases de datos:** MongoDB, MariaDB.
+- **Contenedores y Orquestación:** Docker, Kubernetes.
+- **Servidores web:** Nginx.
+- **Servicios en la nube:** AWS (Amazon Web Services).
+- **Automatización y CI/CD:** GitHub Actions.
+
+## Contacto
+
+¡No dudes en contactarme!
+
+- LinkedIn: [Cesar Andrés Pereira Bernal](https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/)
+- Correo electrónico: [cesarandresdev@gmail.com](mailto:cesarandresdev@gmail.com)
+
+
+¡Gracias por visitar mi perfil!
