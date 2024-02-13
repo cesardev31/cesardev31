@@ -22,8 +22,8 @@
 
 ¡No dudes en contactarme!
 
-- LinkedIn: [Cesar Andrés Pereira Bernal](https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/)
-- Correo electrónico: [cesarandresdev@gmail.com](mailto:cesarandresdev@gmail.com)
-
+- <a href="https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/" target="_blank"><img src="img/linkedin-logo.png" alt="LinkedIn" width="20" height="20"></a> [Cesar Andrés Pereira Bernal](https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/)
+- <a href="mailto:cesarandresdev@gmail.com"><img src="img/email-logo.png" alt="Correo electrónico" width="20" height="20"></a> [cesarandresdev@gmail.com](mailto:cesarandresdev@gmail.com)
 
 ¡Gracias por visitar mi perfil!
+
