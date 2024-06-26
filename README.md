@@ -10,12 +10,12 @@
 
 ## Mis habilidades
 
-- **Lenguajes de programación:** JavaScript/TypeScript, Dart.
-- **Frameworks y librerías:** Node.js, Express, NestJS, Angular, React, Flutter.
-- **Bases de datos:** MongoDB, MariaDB.
+- **Lenguajes de programación:** JavaScript/TypeScript, Dart y Go
+- **Frameworks y librerías:** Node.js, Express, NestJS, Angular, React, Flutter, fiber
+- **Bases de datos:** MongoDB, MariaDB, PosgreSql y Redis
 - **Contenedores y Orquestación:** Docker, Kubernetes.
 - **Servidores web:** Nginx.
-- **Servicios en la nube:** AWS (Amazon Web Services).
+- **Servicios en la nube:** AWS (Amazon Web Services) y Gcloud(Google Cloud Service)
 - **Automatización y CI/CD:** GitHub Actions.
 
 ## Contacto
