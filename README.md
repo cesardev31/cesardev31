@@ -69,7 +69,7 @@ const devops = [
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cesardev31&show_icons=true&theme=radical)
 
 ## 🌟 Proyectos Destacados
 
