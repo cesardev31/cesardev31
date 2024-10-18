@@ -1,29 +1,100 @@
 # ¡Hola! 👋 Soy Cesar Andrés Pereira Bernal
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador Fullstack con experiencia en una variedad de tecnologías, incluyendo Node.js, Express, NestJS, MongoDB, MariaDB, Angular, React y Flutter. También tengo conocimientos en Docker, Kubernetes, Nginx, AWS y GitHub Actions.
+¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me especializo en arquitecturas de microservicios y desarrollo de aplicaciones escalables.
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-- 👨‍💻 Actualmente trabajo como desarrollador Fullstack.
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades.
-- 💬 Puedes contactarme para colaboraciones o simplemente para charlar sobre tecnología.
+- 🔭 Full Stack Developer con enfoque en soluciones cloud-native
+- 🌱 Constantemente aprendiendo y explorando nuevas tecnologías
+- 💡 Apasionado por la arquitectura limpia y las mejores prácticas de desarrollo
+- 🚀 Experiencia en desarrollo de aplicaciones web, móviles y microservicios
+- 🤝 Abierto a colaboraciones y proyectos interesantes
 
-## Mis habilidades
+## 🛠️ Stack Tecnológico
 
-- **Lenguajes de programación:** JavaScript/TypeScript, Dart y Go
-- **Frameworks y librerías:** Node.js, Express, NestJS, Angular, React, Flutter, fiber
-- **Bases de datos:** MongoDB, MariaDB, PosgreSql y Redis
-- **Contenedores y Orquestación:** Docker, Kubernetes.
-- **Servidores web:** Nginx.
-- **Servicios en la nube:** AWS (Amazon Web Services) y Gcloud(Google Cloud Service)
-- **Automatización y CI/CD:** GitHub Actions.
+### Lenguajes de Programación
+```javascript
+const languages = [
+  'JavaScript',
+  'TypeScript',
+  'Python',
+  'Go',
+  'Bash'
+];
+```
 
-## Contacto
+### Frontend
+```javascript
+const frontend = [
+  'React',
+  'React Native',
+  'Angular',
+  'HTML5',
+  'CSS3',
+  'Tailwind CSS',
+  'Flutter'
+];
+```
 
-¡No dudes en contactarme!
+### Backend
+```javascript
+const backend = [
+  'Node.js',
+  'Express',
+  'NestJS',
+  'Fiber (Go)'
+];
+```
 
-- <a href="https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/" target="_blank"><img src="img/linkedin-logo.png" alt="LinkedIn" width="20" height="20"></a> [Cesar Andrés Pereira Bernal](https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/)
-- <a href="mailto:cesarandresdev@gmail.com"><img src="img/email-logo.png" alt="Correo electrónico" width="20" height="20"></a> [cesarandresdev@gmail.com](mailto:cesarandresdev@gmail.com)
+### Bases de Datos
+```javascript
+const databases = [
+  'PostgreSQL',
+  'MongoDB',
+  'Redis'
+];
+```
 
-¡Gracias por visitar mi perfil!
+### DevOps & Cloud
+```javascript
+const devops = [
+  'Docker',
+  'Kubernetes',
+  'GitHub Actions',
+  'Google Cloud (GCloud)',
+  'AWS',
+  'Nginx'
+];
+```
 
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+## 🌟 Proyectos Destacados
+
+- 🛒 E-commerce con arquitectura MEAN Stack
+- 📱 Aplicaciones móviles multiplataforma con Flutter
+- 🔄 Sistemas de microservicios con Node.js y Go
+- ☁️ Implementaciones cloud-native en GCloud y AWS
+
+## 🤝 Conectemos
+
+¡Me encanta colaborar y compartir conocimientos con la comunidad!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-andres-pereira-bernal-51b801286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarandresdev@gmail.com)
+
+## 💻 Contribuciones
+
+```javascript
+const contribuciones = {
+  código: "Clean y mantenible",
+  arquitectura: "Escalable y modular",
+  enfoque: "Soluciones eficientes",
+  metodología: "Ágil y adaptativa"
+};
+```
+
+---
+⭐️ From [CesarPerez](https://github.com/TU_USUARIO)
